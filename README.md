@@ -1,3 +1,9 @@
+<!-- ================= HEADER BANNER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c2ff&height=200&section=header&text=Deepak%20Mishra&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Deepak Mishra</h1>
 
 <h3 align="center">
@@ -6,16 +12,26 @@
 🚀 MERN Stack | Data Analytics | AI Enthusiast
 </h3>
 
+---
+
+<!-- ================= TYPING ANIMATION ================= -->
+
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/deepakmishra4688-Algo?label=Followers&style=for-the-badge" />
-
-<img src="https://komarev.com/ghpvc/?username=deepakmishra4688-Algo&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Java+DSA+Learner;MERN+Stack+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Technologies" />
 
 </p>
 
+---
+
+<!-- ================= PROFILE BADGES ================= -->
+
 <p align="center">
-<i>"Building skills step by step — turning learning into real-world solutions."</i>
+
+<img src="https://komarev.com/ghpvc/?username=deepakmishra4688-Algo&label=Profile%20Views&color=blue&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/deepakmishra4688-Algo?style=for-the-badge" />
+
 </p>
 
 ---
@@ -26,50 +42,29 @@
 💻 Passionate about coding, problem solving, and building projects  
 🚀 Interested in Full-Stack Development, Data Analytics, and AI  
 
-🎯 **Career Goal:** Become a skilled Data Scientist and Software Developer, and secure a professional internship by my 3rd year.  
+🎯 **Career Goal:**  
+Become a skilled Data Scientist and Software Developer and secure a professional internship by my 3rd year.  
 
-🌱 **Currently Learning:** Data Structures & Algorithms in Java, Full-Stack Development (MERN Stack), and Data Analytics fundamentals.  
+🌱 **Currently Learning:**  
+Java Data Structures & Algorithms  
+MERN Stack Development  
+Data Analytics Fundamentals  
 
-💡 **Mantra:** Striving for continuous improvement through consistency, discipline, and practical learning.  
+💡 **Mantra:**  
+Striving for continuous improvement through consistency, discipline, and practical learning.
 
-📍 **Focus Areas:** Data Science | Full-Stack Development | Problem Solving  
-
----
-
-# 🚀 Developer Status
-
-
-Status: Learning & Building Daily
-Focus: Java DSA | MERN | Data Science
-Mindset: Consistency > Motivation
-Goal: Internship by 3rd Year
-
+📍 **Focus Areas:**  
+Data Science | Full-Stack Development | Problem Solving  
 
 ---
 
-# 🛠️ My Favorite Tools and Technologies
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp" />
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css,react,nodejs,mongodb,git,github,vscode" />
 
 </p>
-
----
-
-# 📦 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| Java-DSA-Journey | Java Data Structures & Algorithms practice |
-| Python-Basics | Beginner Python programs |
-| Web-Practice | Basic Web Development learning |
-
-(More projects coming soon 🚀)
 
 ---
 
@@ -77,21 +72,19 @@ Goal: Internship by 3rd Year
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepakmishra4688-Algo&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=deepakmishra4688-Algo&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmishra4688-Algo&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmishra4688-Algo&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmishra4688-Algo&layout=compact&theme=tokyonight" height="170"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=deepakmishra4688-Algo&theme=tokyonight&row=1&column=6" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmishra4688-Algo&theme=tokyonight" />
 
 </p>
 
@@ -107,36 +100,6 @@ Goal: Internship by 3rd Year
 
 ---
 
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/deepak-mishra-48067a308/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:deepakmishra4688@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/deepakmishra4688-Algo">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
-
----
-
-# 🧠 Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -147,6 +110,40 @@ Goal: Internship by 3rd Year
 
 ---
 
+# 📫 Connect With Me
+
 <p align="center">
-⭐ From Deepak Mishra | Keep Learning 🚀
+
+<a href="https://www.linkedin.com/in/deepak-mishra-48067a308/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:deepakmishra4688@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://instagram.com/deepak.miishra_999_">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="https://twitter.com/DeepakMiishra11">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+
+<a href="https://www.facebook.com/share/1CEeWdzAa4/">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ **Keep Learning • Keep Building • Keep Growing 🚀**
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c2ff&height=120&section=footer"/>
 </p>
