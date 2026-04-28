@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Deepak%20Mishra&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Deepak%20Mishra&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h2 align="center">Hi There! 👋 I'm Deepak Mishra</h2>
@@ -17,7 +17,7 @@
 
 Learning every day | Building step by step | Future Data Scientist  
 
-<i>"I may be a beginner today, but I am building myself every day to become a professional developer tomorrow."</i>
+<i>"Building skills step by step — turning learning into real-world solutions."</i>
 
 </p>
 
@@ -25,11 +25,11 @@ Learning every day | Building step by step | Future Data Scientist
 
 # 💡 About Me
 
-I am a Computer Science student with a strong passion for **Data Science, Full-Stack Development, Open Source, and Emerging Technologies**.  
-I believe in learning by building — from small scripts to real-world applications.
+I am a Computer Science student passionate about **Data Science, Full-Stack Development, and Modern Technologies**.  
+I believe in **learning by building** — from small programs to real-world applications.
 
 🎯 **Career Goal:**  
-Become a skilled Data Scientist and Software Developer and secure a professional internship by my 3rd year.
+Become a skilled Data Scientist and Software Developer and secure an internship by my 3rd year.
 
 🌱 **Currently Learning:**  
 Java Data Structures & Algorithms  
@@ -37,70 +37,49 @@ MERN Stack Development
 Data Analytics Fundamentals  
 
 💡 **Mantra:**  
-Improve daily, stay consistent, and grow through practical learning.
+Stay consistent, keep learning, and improve every single day.
 
 ---
 
 # 🛠️ Tech Stack & Tools
 
-### Languages
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,nodejs,react,mongodb,git,github,vscode" />
 
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge)
+</p>
 
 ---
 
 # 🚀 Top Projects
 
-## 🎬 My Portfolio Website
-Modern cinematic personal portfolio website featuring smooth animations and responsive design.
-
-🛠 Tech Used:  
-HTML | CSS | JavaScript  
+## 🎬 My Portfolio Website  
+Modern cinematic portfolio website with smooth animations and responsive design.  
+🛠 **Tech:** HTML • CSS • JavaScript  
 
 ---
 
-## 🎵 Spotify Clone
-A demo music streaming UI inspired by Spotify.
-
-🛠 Tech Used:  
-HTML | CSS  
+## 🎵 Spotify Clone  
+Music streaming UI clone inspired by Spotify interface.  
+🛠 **Tech:** HTML • CSS  
 
 ---
 
-## 🏨 Urban Boys Hostel Website
-Website for Urban Boys Hostel Groups Bhopal featuring room details, Wi-Fi facilities, and booking info.
-
-🛠 Tech Used:  
-HTML | CSS  
+## 🏨 Urban Boys Hostel Website  
+Responsive website for Urban Boys Hostel Groups Bhopal.  
+🛠 **Tech:** HTML • CSS  
 
 ---
 
-## 🤖 GrievanceAI (BGI Project)
-AI-powered platform designed to manage municipal complaints using NLP and sentiment analysis.
-
-🛠 Tech Used:  
-JavaScript  
+## 🤖 GrievanceAI Project  
+AI-based complaint management platform using NLP concepts.  
+🛠 **Tech:** JavaScript  
 
 ---
 
-## 📚 JAVA DSA Journey
-Repository documenting my journey of learning Data Structures and Algorithms in Java.
-
-🛠 Tech Used:  
-Java  
+## 📚 JAVA DSA Repository  
+My personal journey of learning Data Structures and Algorithms.  
+🛠 **Tech:** Java  
 
 ---
 
@@ -108,9 +87,9 @@ Java
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepakmishra4688-Algo&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=deepakmishra4688-Algo&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmishra4688-Algo&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmishra4688-Algo&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -120,7 +99,7 @@ Java
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmishra4688-Algo&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmishra4688-Algo&theme=tokyonight"/>
 
 </p>
 
@@ -130,7 +109,7 @@ Java
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakmishra4688-Algo&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakmishra4688-Algo&theme=tokyo-night"/>
 
 </p>
 
@@ -176,10 +155,10 @@ Java
 
 <p align="center">
 
-⭐ **Deepak Mishra — Building Skills One Project at a Time 🚀**
+⭐ **Deepak Mishra — Future Data Scientist & Developer 🚀**
 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
