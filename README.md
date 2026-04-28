@@ -1,94 +1,205 @@
-<!-- ================= HEADER ANIMATION ================= -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Deepak+Mishra;B.Tech+CSE+Data+Science+Student;Aspiring+Data+Scientist+🚀;Full+Stack+Developer+in+Progress&center=true&size=22">
-</h1>
-
-<!-- ================= BANNER ================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:a371f7&height=200&section=header&text=DEEPAK%20MISHRA&fontSize=40&fontColor=ffffff&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=DEEPAK%20MISHRA&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=B.Tech%20CSE%20(Data%20Science)%20Student%20(2024–2028)&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+</p>
+
+<h2 align="center">
+💻 Aspiring Data Scientist | Full-Stack MERN Developer | Java DSA Learner
+</h2>
+
+<p align="center">
+🎓 B.Tech CSE (Data Science) Student | 🚀 Future Software Engineer
 </p>
 
 ---
 
-## 👋 About Me
-
-- 🎓 B.Tech CSE (Data Science)
-- 📊 Passionate about Data Science & AI
-- 💻 Learning Full Stack Web Development (MERN Stack)
-- 🧠 Strong focus on DSA & Problem Solving
-- 🚀 Building skills from scratch to become job-ready
-- 🎯 Goal: High-paying tech job (15–30 LPA) + startup founder
-
----
-
-## ⚙️ Tech Stack
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🛠 Tools
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<!-- ================= PROFILE VIEWS ================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://komarev.com/ghpvc/?username=deepakmishra4688-Algo&label=Profile%20Views&color=00FFFF&style=flat-square"/>
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+<!-- ================= ANIMATED BANNER ================= -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%"/>
 </p>
 
 ---
 
-## 🚀 Goals 2026
+# 📌 About Me
 
-- ✔ Master DSA & Problem Solving  
-- ✔ Build 5+ Real World Projects  
-- ✔ Get Internship in 3rd Year  
-- ✔ Land 10–15 LPA Job  
-- ✔ Start My Own Tech Startup  
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 💻 GitHub: https://github.com/YOUR_USERNAME  
-- 📧 Email: yourmail@gmail.com  
+- 🎓 B.Tech Computer Science Engineering (Data Science) student passionate about modern technologies.
+- 💻 Interested in building scalable web applications and solving real-world problems.
+- 🚀 Focused on mastering Data Structures & Algorithms and Full-Stack Development.
+- 🎯 **Career Goal:** Become a skilled Data Scientist and Software Developer and secure an internship by my 3rd year.
+- 🌱 **Currently Learning:** Java DSA, MERN Stack Development, and Data Analytics.
+- 💡 **Mantra:** Consistency, discipline, and continuous learning drive my progress.
 
 ---
 
-## 👀 Profile Views
+# 🧠 My Focus Areas
+
+- Java Data Structures & Algorithms  
+- Full-Stack Development (MERN Stack)  
+- Data Science & Data Analytics  
+- Problem Solving & Logical Thinking  
+- Software Development Fundamentals  
+- Building Real-World Projects  
+
+---
+
+# 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+
 </p>
 
 ---
 
-## ⚡ Quote I Live By
+# 📊 GitHub Stats
 
-> “Small daily improvements lead to stunning results.”
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepakmishra4688-Algo&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmishra4688-Algo&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Advanced 3D Statistics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakmishra4688-Algo&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakmishra4688-Algo&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepakmishra4688-Algo&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepakmishra4688-Algo&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=deepakmishra4688-Algo&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakmishra4688-Algo&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/deepakmishra4688-Algo/deepakmishra4688-Algo/output/snake.svg"/>
+
+</p>
+
+---
+
+# 🚀 Top Projects
+
+<p align="center">
+
+<a href="https://github.com/deepakmishra4688-Algo/My-Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=My-Portfolio&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/deepakmishra4688-Algo/Spotify-Clone-main">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=Spotify-Clone-main&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/deepakmishra4688-Algo/Urban-Boys-Hostel-WEBPAGE-PROJECT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=Urban-Boys-Hostel-WEBPAGE-PROJECT&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/deepakmishra4688-Algo/BGI-Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=BGI-Project&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/deepakmishra4688-Algo/JAVA-DSA">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=JAVA-DSA&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
+# 🔗 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/deepak-mishra-48067a308/">
+<img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="mailto:deepakmishra4688@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/DeepakMiishra11">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/deepak.miishra_999_">
+<img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/share/1CEeWdzAa4/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ **Deepak Mishra — Building Skills One Project at a Time 🚀**
+
+</p>
