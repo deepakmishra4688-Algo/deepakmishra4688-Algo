@@ -53,34 +53,31 @@ Stay consistent, keep learning, and improve every single day.
 
 # 🚀 Top Projects
 
-## 🎬 My Portfolio Website  
-Modern cinematic portfolio website with smooth animations and responsive design.  
-🛠 **Tech:** HTML • CSS • JavaScript  
+# 🚀 Top Projects
 
----
+<p align="center">
 
-## 🎵 Spotify Clone  
-Music streaming UI clone inspired by Spotify interface.  
-🛠 **Tech:** HTML • CSS  
+<a href="https://github.com/deepakmishra4688-Algo/My-Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=My-Portfolio&theme=tokyonight"/>
+</a>
 
----
+<a href="https://github.com/deepakmishra4688-Algo/Spotify-Clone-main">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=Spotify-Clone-main&theme=tokyonight"/>
+</a>
 
-## 🏨 Urban Boys Hostel Website  
-Responsive website for Urban Boys Hostel Groups Bhopal.  
-🛠 **Tech:** HTML • CSS  
+<a href="https://github.com/deepakmishra4688-Algo/Urban-Boys-Hostel-WEBPAGE-PROJECT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=Urban-Boys-Hostel-WEBPAGE-PROJECT&theme=tokyonight"/>
+</a>
 
----
+<a href="https://github.com/deepakmishra4688-Algo/BGI-Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=BGI-Project&theme=tokyonight"/>
+</a>
 
-## 🤖 GrievanceAI Project  
-AI-based complaint management platform using NLP concepts.  
-🛠 **Tech:** JavaScript  
+<a href="https://github.com/deepakmishra4688-Algo/JAVA-DSA">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=JAVA-DSA&theme=tokyonight"/>
+</a>
 
----
-
-## 📚 JAVA DSA Repository  
-My personal journey of learning Data Structures and Algorithms.  
-🛠 **Tech:** Java  
-
+</p>
 ---
 
 # 📊 GitHub Analytics
