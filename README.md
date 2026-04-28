@@ -1,17 +1,16 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=DEEPAK%20MISHRA&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=B.Tech%20CSE%20(Data%20Science)%20Student%20(2024–2028)&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:000000,100:a371f7&text=DEEPAK%20MISHRA&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=B.Tech%20CSE%20(Data%20Science)%20Student%20(2024–2028)&descSize=18&descColor=FFFFFF&descAlignY=65" width="100%"/>
 </p>
 
 <h2 align="center">
-💻 Aspiring Data Scientist | Full-Stack MERN Developer | Java DSA Learner
+💻 Aspiring Data Scientist | Full-Stack Developer | Java DSA Learner
 </h2>
 
 <p align="center">
 🎓 B.Tech CSE (Data Science) Student | 🚀 Future Software Engineer
 </p>
-
 ---
 
 <!-- ================= PROFILE VIEWS ================= -->
