@@ -198,6 +198,9 @@
 ---
 
 <p align="center">
+## ⚡ Quote I Live By
+
+> “Small daily improvements lead to stunning results.”
 
 ⭐ **Deepak Mishra — Building Skills One Project at a Time 🚀**
 
