@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:000000,100:a371f7&text=DEEPAK%20MISHRA&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=B.Tech%20CSE%20(Data%20Science)%20Student%20(2024–2028)&descSize=18&descColor=BBBBBB&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:000000,100:a371f7&text=DEEPAK%20MISHRA&fontSize=45&fontColor=BBBBBB&animation=fadeIn&fontAlignY=40&desc=B.Tech%20CSE%20(Data%20Science)%20Student%20(2024–2028)&descSize=18&descColor=BBBBBB&descAlignY=65" width="100%"/>
 </p>
 
 <h2 align="center">
