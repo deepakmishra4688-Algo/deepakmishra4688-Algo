@@ -1,178 +1,168 @@
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADER BANNER                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    HEADER CAPSULE BANNER                  -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d0d0d,50:1a0533,100:6e40c9&text=DEEPAK%20MISHRA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🧠%20Data%20Scientist%20in%20Progress%20%7C%20🚀%20Full-Stack%20Developer%20%7C%20☕%20Java%20DSA%20Learner&descSize=16&descColor=c9b8ff&descAlignY=58&stroke=6e40c9&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0a0a0f,30:0d1b2a,60:1a1040,100:0a0a0f&text=DEEPAK%20MISHRA&fontSize=72&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=🧠%20Data%20Scientist%20%7C%20🚀%20Full-Stack%20Dev%20%7C%20☕%20Java%20DSA&descSize=17&descColor=7c6dfa&descAlignY=60&stroke=00f5ff&strokeWidth=1.5" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED TYPING SVG                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED TYPING TEXT                    -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<!-- Primary Typing Headline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2800&pause=900&color=A371F7&background=00000000&center=true&vCenter=true&width=750&height=65&lines=Hey+There!+I'm+Deepak+Mishra+👋;B.Tech+CSE+(Data+Science)+%7C+2024–2028+🎓;Aspiring+Data+Scientist+📊;Full-Stack+Developer+in+Progress+🌐;Java+DSA+Enthusiast+☕;Turning+Coffee+into+Code+💡;One+Commit+at+a+Time+🔥" alt="Typing SVG — Primary"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Hey+There!+I'm+Deepak+👋;B.Tech+CSE+(Data+Science)+2024–2028+🎓;Aspiring+Data+Scientist+📊;Full-Stack+Developer+in+Progress+🌐;Java+%2B+DSA+Enthusiast+☕;Turning+Coffee+into+Code+💡;One+Commit+at+a+Time+🔥" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- Subtitle Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=6ECBF5&center=true&vCenter=true&width=600&height=35&lines=🚀+Building+Real-World+Projects;📈+Learning+%7C+Growing+%7C+Shipping;🎯+Internship+Goal+by+3rd+Year;💡+Consistency+%2B+Discipline+%3D+Results" alt="Typing SVG — Subtitle"/>
-</a>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        PROFILE VIEWS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://komarev.com/ghpvc/?username=deepakmishra4688-Algo&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<!-- Badge Row -->
+<img src="https://komarev.com/ghpvc/?username=deepakmishra4688-Algo&label=Profile+Views&color=00f5ff&style=for-the-badge&labelColor=0d1b2a" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/deepakmishra4688-Algo?label=Followers&style=for-the-badge&color=6e40c9&labelColor=0d0d0d" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/deepakmishra4688-Algo?label=Followers&style=for-the-badge&color=7c6dfa&labelColor=0d1b2a" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20MERN-blueviolet?style=for-the-badge&labelColor=0d0d0d" alt="Focus"/>
+<img src="https://img.shields.io/badge/Open%20To-Internship%20%7C%20Collab-00f5ff?style=for-the-badge&labelColor=0d1b2a" alt="Open To"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED SIDE BANNER                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                            -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 🧑‍💻 About Me
+## 👾 About Me
 
-```yaml
-Name     : Deepak Mishra
-Role     : B.Tech CSE (Data Science) Student
-Batch    : 2024 – 2028
-Location : India 🇮🇳
+```typescript
+const deepak = {
+  name     : "Deepak Mishra",
+  role     : "B.Tech CSE (Data Science) Student",
+  batch    : "2024 – 2028",
+  location : "India 🇮🇳",
 
-Focus Areas:
-  - ☕ Java DSA & Problem Solving
-  - 🌐 MERN Stack Development
-  - 📊 Data Science & Analytics
-  - 🏗️  Software Engineering Fundamentals
+  currentlyLearning: [
+    "☕ Java DSA & Problem Solving",
+    "🌐 MERN Stack Development",
+    "📊 Machine Learning & Analytics",
+    "🏗️  Software Engineering Fundamentals",
+  ],
 
-Goal     : Internship by 3rd Year 🎯
-Mantra   : "Consistency + Discipline = Results"
-Status   : Actively Learning & Building 🚀
+  goal   : "Internship by 3rd Year 🎯",
+  mantra : "Consistency + Discipline = Results 🔥",
+  status : "Actively Building & Shipping 🚀",
+};
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       SKILL CATEGORIES                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                     TECH STACK                            -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## ⚡ Tech Stack & Skills
 
 <div align="center">
 
-### 🧱 Languages
+#### 🧱 Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp&theme=dark&perline=5"/>
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp&theme=dark&perline=5" />
+#### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark&perline=5"/>
 
-### 🌐 Frontend
+#### 🔧 Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark&perline=5"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark&perline=5" />
+#### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark&perline=5"/>
 
-### 🔧 Backend & Database
+#### 📊 Data Science Stack
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark&perline=5"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark&perline=5" />
+<br/>
 
-### 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark&perline=5" />
-
-### 📊 Data Science Stack
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark&perline=3" />
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB TROPHIES                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    GITHUB TROPHIES                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=deepakmishra4688-Algo&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=deepakmishra4688-Algo&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS GRID                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    GITHUB ANALYTICS                       -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepakmishra4688-Algo&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=a371f7&icon_color=00d4ff&text_color=c9b8ff&ring_color=6e40c9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmishra4688-Algo&theme=radical&hide_border=true&background=0d0d0d&stroke=6e40c9&ring=a371f7&fire=ff6b35&currStreakNum=ffffff&sideNums=c9b8ff&currStreakLabel=a371f7&sideLabels=c9b8ff&dates=8888aa" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepakmishra4688-Algo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1b2a&title_color=00f5ff&icon_color=7c6dfa&text_color=c9e8f5&ring_color=00f5ff" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmishra4688-Algo&theme=tokyonight&hide_border=true&background=0d1b2a&stroke=00f5ff&ring=7c6dfa&fire=ff6b35&currStreakNum=ffffff&sideNums=c9e8f5&currStreakLabel=00f5ff&sideLabels=c9e8f5&dates=6a9cc8" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmishra4688-Algo&layout=donut&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a371f7&text_color=c9b8ff" alt="Top Languages"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmishra4688-Algo&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00f5ff&text_color=c9e8f5" alt="Top Languages"/>
 &nbsp;&nbsp;
-<img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakmishra4688-Algo&theme=radical" alt="Profile Summary"/>
+<img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakmishra4688-Algo&theme=nord_dark" alt="Profile Summary"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      ACTIVITY GRAPH                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   ACTIVITY GRAPH                          -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakmishra4688-Algo&theme=react-dark&bg_color=0d0d0d&color=a371f7&line=6e40c9&point=00d4ff&area=true&area_color=6e40c9&hide_border=true&custom_title=Deepak's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakmishra4688-Algo&theme=tokyo-night&bg_color=0d1b2a&color=00f5ff&line=7c6dfa&point=00f5ff&area=true&area_color=1a1040&hide_border=true&custom_title=Deepak's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SUMMARY STATS CARDS                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                GITHUB PROFILE SUMMARY                     -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-## 🧩 GitHub Profile Summary
+## 🧩 Profile Summary Cards
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakmishra4688-Algo&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepakmishra4688-Algo&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepakmishra4688-Algo&theme=radical" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakmishra4688-Algo&theme=nord_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepakmishra4688-Algo&theme=nord_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepakmishra4688-Algo&theme=nord_dark" width="32%"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION SNAKE                       -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
@@ -188,56 +178,53 @@ Status   : Actively Learning & Building 🚀
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TOP PROJECTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                       -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/deepakmishra4688-Algo/My-Portfolio">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=My-Portfolio&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a371f7&icon_color=00d4ff&text_color=c9b8ff"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=My-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00f5ff&icon_color=7c6dfa&text_color=c9e8f5"/>
 </a>
 <a href="https://github.com/deepakmishra4688-Algo/Spotify-Clone-main">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=Spotify-Clone-main&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a371f7&icon_color=00d4ff&text_color=c9b8ff"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=Spotify-Clone-main&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00f5ff&icon_color=7c6dfa&text_color=c9e8f5"/>
 </a>
 <a href="https://github.com/deepakmishra4688-Algo/Urban-Boys-Hostel-WEBPAGE-PROJECT">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=Urban-Boys-Hostel-WEBPAGE-PROJECT&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a371f7&icon_color=00d4ff&text_color=c9b8ff"/>
-</a>
-<a href="https://github.com/deepakmishra4688-Algo/BGI-Project">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=BGI-Project&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a371f7&icon_color=00d4ff&text_color=c9b8ff"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=Urban-Boys-Hostel-WEBPAGE-PROJECT&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00f5ff&icon_color=7c6dfa&text_color=c9e8f5"/>
 </a>
 <a href="https://github.com/deepakmishra4688-Algo/JAVA-DSA">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=JAVA-DSA&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a371f7&icon_color=00d4ff&text_color=c9b8ff"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=JAVA-DSA&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00f5ff&icon_color=7c6dfa&text_color=c9e8f5"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     SKILLS PROGRESS BARS                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  LEARNING PROGRESS                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🎯 Current Learning Progress
 
 ```
-Java DSA          ██████████████████░░   90% ⚡
-HTML & CSS        ████████████████████   100% ✅
-JavaScript        ████████████████░░░░   80% 🔥
-React.js          ██████████████░░░░░░   70% 📈
-Python            ████████████████░░░░   80% 🐍
-Data Science      ████████████░░░░░░░░   60% 📊
-Node.js           ██████████░░░░░░░░░░   50% 🌱
-MongoDB           ████████░░░░░░░░░░░░   40% 🌱
+☕ Java DSA          ████████████████████░░   90% ⚡ Advanced
+🌐 HTML & CSS        ██████████████████████   100% ✅ Mastered
+📜 JavaScript        ████████████████████░░   80% 🔥 Solid
+⚛️  React.js          ██████████████░░░░░░░░   70% 📈 Growing
+🐍 Python            ████████████████████░░   80% 🐍 Proficient
+📊 Data Science      ████████████░░░░░░░░░░   60% 📊 Learning
+🟢 Node.js           ██████████░░░░░░░░░░░░   50% 🌱 Building
+🍃 MongoDB           ████████░░░░░░░░░░░░░░   40% 🌱 Exploring
 ```
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       SOCIAL LINKS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    CONNECT WITH ME                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🌐 Connect With Me
 
@@ -254,23 +241,23 @@ MongoDB           ████████░░░░░░░░░░░░  
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       QUOTE SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    QUOTE SECTION                          -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 💬 Dev Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" alt="Dev Quote"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       FOOTER BANNER                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                      FOOTER                               -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -278,10 +265,10 @@ MongoDB           ████████░░░░░░░░░░░░  
 
 <br/>
 
-### ⚡ *"Small daily improvements lead to stunning results."*
+### ⚡ *"The secret to getting ahead is getting started."*
 
-**Built with ❤️ by Deepak Mishra — One Commit at a Time 🚀**
+**Crafted with 💙 by Deepak Mishra — One Commit at a Time 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6e40c9,100:0d0d0d&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&section=footer&reversal=false" width="100%"/>
 
 </div>
