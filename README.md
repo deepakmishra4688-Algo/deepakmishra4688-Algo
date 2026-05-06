@@ -2,22 +2,20 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                    HEADER CAPSULE BANNER                  -->
+<!--                    HEADER BANNER                          -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0a0a0f,30:0d1b2a,60:1a1040,100:0a0a0f&text=DEEPAK%20MISHRA&fontSize=72&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=🧠%20Data%20Scientist%20%7C%20🚀%20Full-Stack%20Dev%20%7C%20☕%20Java%20DSA&descSize=17&descColor=7c6dfa&descAlignY=60&stroke=00f5ff&strokeWidth=1.5" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                   ANIMATED TYPING TEXT                    -->
+<!--              ANIMATED TYPING SVG (demolab — ✅ works)     -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Hey+There!+I'm+Deepak+👋;B.Tech+CSE+(Data+Science)+2024–2028+🎓;Aspiring+Data+Scientist+📊;Full-Stack+Developer+in+Progress+🌐;Java+%2B+DSA+Enthusiast+☕;Turning+Coffee+into+Code+💡;One+Commit+at+a+Time+🔥" alt="Typing SVG"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Hey+There!+I%27m+Deepak+%F0%9F%91%8B;B.Tech+CSE+(Data+Science)+2024%E2%80%932028+%F0%9F%8E%93;Aspiring+Data+Scientist+%F0%9F%93%8A;Full-Stack+Developer+in+Progress+%F0%9F%8C%90;Java+%2B+DSA+Enthusiast+%E2%98%95;Turning+Coffee+into+Code+%F0%9F%92%A1;One+Commit+at+a+Time+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Badge Row -->
+<!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=deepakmishra4688-Algo&label=Profile+Views&color=00f5ff&style=for-the-badge&labelColor=0d1b2a" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/deepakmishra4688-Algo?label=Followers&style=for-the-badge&color=7c6dfa&labelColor=0d1b2a" alt="Followers"/>
@@ -61,7 +59,7 @@ const deepak = {
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                     TECH STACK                            -->
+<!--                      TECH STACK                           -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ## ⚡ Tech Stack & Skills
@@ -96,72 +94,44 @@ const deepak = {
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB TROPHIES                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deepakmishra4688-Algo&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB ANALYTICS                       -->
+<!--             GITHUB ANALYTICS (streak-stats.demolab — ✅)  -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepakmishra4688-Algo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1b2a&title_color=00f5ff&icon_color=7c6dfa&text_color=c9e8f5&ring_color=00f5ff" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmishra4688-Algo&theme=tokyonight&hide_border=true&background=0d1b2a&stroke=00f5ff&ring=7c6dfa&fire=ff6b35&currStreakNum=ffffff&sideNums=c9e8f5&currStreakLabel=00f5ff&sideLabels=c9e8f5&dates=6a9cc8" alt="GitHub Streak"/>
+<!-- Streak Stats — demolab.com (✅ Working replacement for broken herokuapp) -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=deepakmishra4688-Algo&theme=tokyonight&hide_border=true&background=0d1b2a&stroke=00f5ff&ring=7c6dfa&fire=ff6b35&currStreakNum=ffffff&sideNums=c9e8f5&currStreakLabel=00f5ff&sideLabels=c9e8f5&dates=6a9cc8" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmishra4688-Algo&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00f5ff&text_color=c9e8f5" alt="Top Languages"/>
-&nbsp;&nbsp;
-<img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakmishra4688-Algo&theme=nord_dark" alt="Profile Summary"/>
+<!-- Top Languages — shields.io based, always reliable -->
+<img src="https://img.shields.io/badge/Top%20Language-Java-f89820?style=for-the-badge&logo=java&logoColor=white&labelColor=0d1b2a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Also%20Using-Python%20%7C%20JS%20%7C%20C%2B%2B-00f5ff?style=for-the-badge&labelColor=0d1b2a"/>
 
 </div>
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                   ACTIVITY GRAPH                          -->
+<!--          ACTIVITY GRAPH (vercel — ✅ working)             -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakmishra4688-Algo&theme=tokyo-night&bg_color=0d1b2a&color=00f5ff&line=7c6dfa&point=00f5ff&area=true&area_color=1a1040&hide_border=true&custom_title=Deepak's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakmishra4688-Algo&theme=tokyo-night&bg_color=0d1b2a&color=00f5ff&line=7c6dfa&point=00f5ff&area=true&area_color=1a1040&hide_border=true&custom_title=Deepak%27s%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                GITHUB PROFILE SUMMARY                     -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🧩 Profile Summary Cards
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakmishra4688-Algo&theme=nord_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepakmishra4688-Algo&theme=nord_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepakmishra4688-Algo&theme=nord_dark" width="32%"/>
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION SNAKE                       -->
+<!--    SNAKE — (GitHub Action generates this on push)         -->
+<!--    Run workflow from Actions tab first to activate ✅     -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
@@ -186,18 +156,56 @@ const deepak = {
 
 <div align="center">
 
-<a href="https://github.com/deepakmishra4688-Algo/My-Portfolio">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=My-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00f5ff&icon_color=7c6dfa&text_color=c9e8f5"/>
-</a>
-<a href="https://github.com/deepakmishra4688-Algo/Spotify-Clone-main">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=Spotify-Clone-main&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00f5ff&icon_color=7c6dfa&text_color=c9e8f5"/>
-</a>
-<a href="https://github.com/deepakmishra4688-Algo/Urban-Boys-Hostel-WEBPAGE-PROJECT">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=Urban-Boys-Hostel-WEBPAGE-PROJECT&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00f5ff&icon_color=7c6dfa&text_color=c9e8f5"/>
-</a>
-<a href="https://github.com/deepakmishra4688-Algo/JAVA-DSA">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakmishra4688-Algo&repo=JAVA-DSA&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=00f5ff&icon_color=7c6dfa&text_color=c9e8f5"/>
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/deepakmishra4688-Algo/My-Portfolio">
+        <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-View%20Project-00f5ff?style=for-the-badge&labelColor=0d1b2a" alt="Portfolio"/>
+        <br/><sub><b>Personal Portfolio Website</b></sub>
+        <br/><sub>HTML · CSS · JavaScript</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/deepakmishra4688-Algo/Spotify-Clone-main">
+        <img src="https://img.shields.io/badge/🎵%20Spotify%20Clone-View%20Project-1DB954?style=for-the-badge&labelColor=0d1b2a" alt="Spotify Clone"/>
+        <br/><sub><b>Spotify UI Clone</b></sub>
+        <br/><sub>HTML · CSS · JavaScript</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/deepakmishra4688-Algo/Urban-Boys-Hostel-WEBPAGE-PROJECT">
+        <img src="https://img.shields.io/badge/🏠%20Hostel%20Webpage-View%20Project-7c6dfa?style=for-the-badge&labelColor=0d1b2a" alt="Hostel Project"/>
+        <br/><sub><b>Urban Boys Hostel Website</b></sub>
+        <br/><sub>HTML · CSS · JavaScript</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/deepakmishra4688-Algo/JAVA-DSA">
+        <img src="https://img.shields.io/badge/☕%20Java%20DSA-View%20Project-f89820?style=for-the-badge&labelColor=0d1b2a" alt="Java DSA"/>
+        <br/><sub><b>Java DSA Problem Solutions</b></sub>
+        <br/><sub>Java · Data Structures · Algorithms</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/deepakmishra4688-Algo/BGI-Project">
+        <img src="https://img.shields.io/badge/🔬%20BGI%20Project-View%20Project-ff6b35?style=for-the-badge&labelColor=0d1b2a" alt="BGI Project"/>
+        <br/><sub><b>BGI Project</b></sub>
+        <br/><sub>HTML · CSS · JavaScript</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/deepakmishra4688-Algo">
+        <img src="https://img.shields.io/badge/📂%20All%20Repos-View%20All-c9e8f5?style=for-the-badge&labelColor=0d1b2a" alt="All Repos"/>
+        <br/><sub><b>Explore All Projects</b></sub>
+        <br/><sub>github.com/deepakmishra4688-Algo</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -242,7 +250,7 @@ const deepak = {
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                    QUOTE SECTION                          -->
+<!--           QUOTE (quotes-github-readme — ✅ works)         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -256,7 +264,7 @@ const deepak = {
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                      FOOTER                               -->
+<!--                        FOOTER                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -269,6 +277,6 @@ const deepak = {
 
 **Crafted with 💙 by Deepak Mishra — One Commit at a Time 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&section=footer&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&section=footer" width="100%"/>
 
 </div>
