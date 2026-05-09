@@ -11,7 +11,7 @@
 <!--                   ANIMATED TYPING SVG                     -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Hey+There!+I'm+Deepak+%F0%9F%91%8B;B.Tech+CSE+(Data+Science)+2024%E2%80%932028+%F0%9F%8E%93;Aspiring+Data+Scientist+%F0%9F%93%8A;Full-Stack+Developer+in+Progress+%F0%9F%8C%90;Java+%2B+DSA+Enthusiast+%E2%98%95;Turning+Coffee+into+Code+%F0%9F%92%A1;One+Commit+at+a+Time+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=#050100&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Hey+There!+I'm+Deepak+%F0%9F%91%8B;B.Tech+CSE+(Data+Science)+2024%E2%80%932028+%F0%9F%8E%93;Aspiring+Data+Scientist+%F0%9F%93%8A;Full-Stack+Developer+in+Progress+%F0%9F%8C%90;Java+%2B+DSA+Enthusiast+%E2%98%95;Turning+Coffee+into+Code+%F0%9F%92%A1;One+Commit+at+a+Time+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
