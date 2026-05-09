@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🔥 HERO BANNER (3D ILLUSION STYLE) -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,50:161b22,100:0d1117&text=DEEPAK%20MISHRA&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,50:161b22,100:0d1117&text=DEEPAK%20MISHRA&fontSize=42&fontColor=fffffk&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+Engineer;Full+Stack+Developer;Java+DSA+Problem+Solver;Building+AI+Projects;Open+to+Internships+🚀" />
 
