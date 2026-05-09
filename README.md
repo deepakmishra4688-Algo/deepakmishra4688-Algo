@@ -5,7 +5,7 @@
 <!--                    HEADER BANNER                          -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f14,50:1a1f2e,100:0f0f14&text=DEEPAK%20MISHRA&fontSize=58&fontColor=e8d5a3&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Full-Stack%20Developer%20%7C%20Java%20%26%20DSA&descSize=17&descColor=a8b4c8&descAlignY=58&stroke=e8d5a3&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0f0f14,30:1a1f2e,60:14192b,100:0f0f14&text=DEEPAK%20MISHRA&fontSize=72&fontColor=e8d5a3&animation=twinkling&fontAlignY=40&desc=Data%20Scientist%20%7C%20Full-Stack%20Developer%20%7C%20Java%20%26%20DSA&descSize=17&descColor=a8b4c8&descAlignY=60&stroke=c9a84c&strokeWidth=1.5" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                   ANIMATED TYPING SVG                     -->
@@ -260,6 +260,6 @@ const deepak = {
 
 **Crafted with dedication by Deepak Mishra &mdash; One Commit at a Time 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f0f14,50:1a1f2e,100:0f0f14&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:0f0f14,50:1a1f2e,100:0f0f14&section=footer" width="100%"/>
 
 </div>
