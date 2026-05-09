@@ -215,9 +215,7 @@ const deepak: Developer = {
   <img alt="snake" src="https://raw.githubusercontent.com/deepakmishra4688-Algo/deepakmishra4688-Algo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-> 💡 *Snake is auto-generated every 12 hours via GitHub Actions. If it appears broken, go to **Actions → Generate Contribution Snake → Run workflow** to trigger it manually.*
-
-</div>
+> 💡
 
 ---
 
