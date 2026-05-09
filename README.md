@@ -5,7 +5,7 @@
 <!--                    ANIMATED HEADER                        -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f0f14,30:1a1f2e,60:14192b,100:0f0f14&text=DEEPAK%20MISHRA&fontSize=52&fontColor=e8d5a3&animation=twinkling&fontAlignY=40&desc=Data%20Scientist%20%7C%20Full-Stack%20Dev%20%7C%20Java%20DSA%20%7C%20Open%20to%20Internships&descSize=17&descColor=a8b4c8&descAlignY=60&stroke=c9a84c&strokeWidth=1.2" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0f0f14,30:1a1f2e,60:14192b,100:0f0f14&text=DEEPAK%20MISHRA&fontSize=72&fontColor=e8d5a3&animation=twinkling&fontAlignY=40&desc=Data%20Scientist%20%7C%20Full-Stack%20Dev%20%7C%20Java%20DSA%20%7C%20Open%20to%20Internships&descSize=17&descColor=a8b4c8&descAlignY=60&stroke=c9a84c&strokeWidth=1.5" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--               MULTI-LINE ANIMATED TYPING                  -->
@@ -76,7 +76,7 @@ const deepak: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=deepakmishra4688-Algo&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=deepakmishra4688-Algo&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -90,9 +90,9 @@ const deepak: Developer = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepakmishra4688-Algo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f0f14&title_color=e8d5a3&icon_color=c9a84c&text_color=a8b4c8&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepakmishra4688-Algo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmishra4688-Algo&layout=compact&theme=github_dark&hide_border=true&bg_color=0f0f14&title_color=e8d5a3&text_color=a8b4c8&border_radius=12&langs_count=8" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmishra4688-Algo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
