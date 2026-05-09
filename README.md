@@ -5,7 +5,7 @@
 <!--                    HEADER BANNER                          -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0f14,50:1a1f2e,100:0f0f14&text=DEEPAK%20MISHRA&fontSize=68&fontColor=e8d5a3&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Full-Stack%20Developer%20%7C%20Java%20%26%20DSA&descSize=17&descColor=a8b4c8&descAlignY=58&stroke=e8d5a3&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f14,50:1a1f2e,100:0f0f14&text=DEEPAK%20MISHRA&fontSize=58&fontColor=e8d5a3&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Full-Stack%20Developer%20%7C%20Java%20%26%20DSA&descSize=17&descColor=a8b4c8&descAlignY=58&stroke=e8d5a3&strokeWidth=1" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                   ANIMATED TYPING SVG                     -->
