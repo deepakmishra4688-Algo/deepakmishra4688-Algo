@@ -5,7 +5,7 @@
 <!--                    ANIMATED HEADER                        -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0f0f14,30:1a1f2e,60:14192b,100:0f0f14&text=DEEPAK%20MISHRA&fontSize=72&fontColor=e8d5a3&animation=twinkling&fontAlignY=40&desc=Data%20Scientist%20%7C%20Full-Stack%20Dev%20%7C%20Java%20DSA%20%7C%20Open%20to%20Internships&descSize=17&descColor=a8b4c8&descAlignY=60&stroke=c9a84c&strokeWidth=1.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f0f14,30:1a1f2e,60:14192b,100:0f0f14&text=DEEPAK%20MISHRA&fontSize=52&fontColor=e8d5a3&animation=twinkling&fontAlignY=40&desc=Data%20Scientist%20%7C%20Full-Stack%20Dev%20%7C%20Java%20DSA%20%7C%20Open%20to%20Internships&descSize=17&descColor=a8b4c8&descAlignY=60&stroke=c9a84c&strokeWidth=1.2" width="90%"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--               MULTI-LINE ANIMATED TYPING                  -->
