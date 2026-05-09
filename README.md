@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,50:161b22,100:0d1117&text=DEEPAK%20MISHRA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20Java%20DSA&descSize=16&descColor=8b949e&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,50:161b22,100:0d1117&text=DEEPAK%20MISHRA&fontSize=48&fontColor=ggggg&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20Java%20DSA&descSize=16&descColor=8b949e&descAlignY=60" width="100%"/>
 
 <!-- TYPING SVG (FIXED) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Deepak+Mishra+👋;B.Tech+CSE+(Data+Science);Full-Stack+Developer;Java+DSA+Enthusiast;Aspiring+Data+Scientist" />
